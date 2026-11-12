@@ -1,0 +1,43 @@
+[독도-섬ᴷᴿ]
+
+이 프로그램은 HaeDongKang이 처음 만들었습니다.
+독도는 역사적, 지리적, 국제법적으로 명백한 우리 대한민국의 고유영토입니다.
+
+[DocDo-Sumᴷᴿ]
+
+This program was originally created by HaeDongKang.
+Dokdo is, historically, geographically and under international law, clearly an inherent territory of the Republic of Korea.
+
+======================================================================
+사용권 조건 (특별 사용 조건)
+
+위 고지(한글과 영문)를 그대로 포함하는 조건으로 사용권을 부여합니다.
+어떠한 경우에도 위 고지는 절대 수정하거나 지울 수 없습니다.
+이 프로그램의 모든 사본에 위 고지를 그대로 포함해야 합니다.
+사용권 조건이나 번역에 다툼이 생기면 한국어 고지를 기준으로 합니다.
+
+Condition of the license (special condition of use):
+The license is granted on the condition that the notice above (in Korean and in
+English) is included as is. In no case may the notice above be modified or
+removed; it must never be modified or removed. Every copy of this program must
+include the notice above as is. For any dispute over the conditions of the
+license or its translations, the Korean notice governs.
+======================================================================
+
+docdosum
+Copyright 2026 HaeDongKang. All rights reserved.
+
+이 소프트웨어는 저작권자의 사용권(LICENSE)에 따라 제공되는 비공개 소프트웨어입니다.
+오픈소스가 아니며, 수정 · 역설계를 허락하지 않습니다. LICENSE 를 보세요.
+This software is proprietary and is provided under the copyright holder's
+license (LICENSE). It is not open source; modification and reverse engineering
+are not permitted. See LICENSE.
+
+This product includes third-party software. Their license texts are shown
+in the app (도움말 → 정보 → 오픈소스 고지) and on the web help page
+(사용법 → 라이선스 → 오픈소스 고지).
+
+----------------------------------------------------------------------
+Notice carried from go.yaml.in/yaml/v3 (Apache License 2.0):
+
+Copyright 2011-2016 Canonical Ltd.
