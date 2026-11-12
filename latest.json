@@ -1,9 +1,9 @@
 {
-  "version": "0.11.0-088",
-  "tag": "v0.11.0-beta.088",
-  "asset": "docdosum-setup-0.11.0-088.exe",
-  "sha256": "ec09f475c3d86e266c2d632e5f833e59ef9555abcbbb3da70def8fc3a0abbea8",
-  "size": 41088068,
+  "version": "0.11.0-089",
+  "tag": "v0.11.0-beta.089",
+  "asset": "docdosum-setup-0.11.0-089.exe",
+  "sha256": "94cb0c406a823efe5ef561c7f1b36ffe4819ce8f9a8eef9ea72c4b3519a03009",
+  "size": 41088157,
   "released": "2026-11-12",
   "prerelease": true
 }
