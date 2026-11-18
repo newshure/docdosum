@@ -1,10 +1,10 @@
 {
-    "version": "0.14.0-000",
-    "tag": "v0.14.0-beta.000",
-    "asset": "docdosum-setup-0.14.0-000.exe",
-    "sha256": "9c46fc2e09ebf1683fe17c2f7ec9a47b1b962557e0443884e4b83d343f24ed68",
-    "size": 41317426,
+    "version": "0.14.0-001",
+    "tag": "v0.14.0-beta.001",
+    "asset": "docdosum-setup-0.14.0-001.exe",
+    "sha256": "86c1684273b0fc7fa28bf9c434fc08b59460fe78c06278fde885ad6201809bb3",
+    "size": 41321184,
     "released": "2026-11-18",
     "prerelease": true,
-    "sig": "qSKpoz08yKgyZEEclVD7jGQrQkkejmQvMLMdGJbPXTyw1keSFhah6XS+Bieg/sVPByF1e5UjqpCcbf4/qTpSCQ=="
+    "sig": "qAg7iV5l3UDX6CY64eWEgobz/hs5BbDeBGm7vswsD32t17qGAcyQ8Lg3YLxn846wdkCAub9gnWtHj+fzwyzRBA=="
 }
