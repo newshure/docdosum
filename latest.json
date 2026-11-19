@@ -1,10 +1,10 @@
 {
-    "version": "0.15.0-000",
-    "tag": "v0.15.0-beta.000",
-    "asset": "docdosum-setup-0.15.0-000.exe",
-    "sha256": "8a9bf975e1b7c03b5c0cb6ba175e69ab87df482c4008c08647fbd8e6b99adf58",
-    "size": 41330184,
-    "released": "2026-11-18",
+    "version": "0.16.0-000",
+    "tag": "v0.16.0-beta.000",
+    "asset": "docdosum-setup-0.16.0-000.exe",
+    "sha256": "9b5375dfbc456f1b23efc646fe870c0e2f5dc0efeaee099b627e8052fe03ce41",
+    "size": 41383071,
+    "released": "2026-11-19",
     "prerelease": true,
-    "sig": "Nz4tgEMllPdNRLmWn9uX3B+wlyvSGVuymNb9zRxeQtpeleRsTlydGduyv1fHkpsU63L45PMs7tp2W6OezZl2Dg=="
+    "sig": "1tFL6jDF+DgSjdkLX0ZmOXbIX9rigJ2IarfqwOqgfrxv4dZEGUfB/4zVomnScWBK9NMQL5VraMRCiAl2y7KABA=="
 }
