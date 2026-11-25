@@ -1,0 +1,26 @@
+{
+"catalog": {
+  "version": 1,
+  "updated": "2026-11-25",
+  "entries": [
+    {
+      "id": "docdosum-sample",
+      "title": "예시 체계",
+      "publisher": "[독도-섬ᴷᴿ]",
+      "description": "가져오기를 확인하는 작은 예시입니다 (개념 3).",
+      "home": "https://github.com/newshure/docdosum/blob/main/vocab/sample.ttl",
+      "mode": "apply",
+      "version": "1",
+      "url": "https://raw.githubusercontent.com/newshure/docdosum/main/vocab/sample.ttl",
+      "sha256": "025d506791b8ff5ded8d59b6e77b0bf6ddd7928405ba09fffa07aa0e3fd113dd",
+      "size": 1315,
+      "concepts": 3,
+      "langs": [
+        "ko",
+        "en"
+      ]
+    }
+  ]
+},
+"sig": "7F4LUkpRfPHp06pZBAdVJQvIlO0OkHylAp7EOLKS8ZJY3hUUpJyvAYIYtS+2h7ZS58oN8EVFB7yfMcQiA3v9CQ=="
+}

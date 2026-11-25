@@ -1,0 +1,20 @@
+# [독도-섬ᴷᴿ] 예시 태그 체계 (판 1, 2026-11-25)
+# 참조 체계 가져오기를 확인하는 작은 예시입니다. 이름 · 설명은 독도-섬이 새로 지었고 외부 자료를 옮기지 않았습니다.
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dct: <http://purl.org/dc/terms/> .
+@prefix sp: <https://github.com/newshure/docdosum/blob/main/vocab/sample.ttl#> .
+
+sp: a skos:ConceptScheme ;
+  skos:prefLabel "예시 체계"@ko , "Sample scheme"@en ;
+  dct:creator "[독도-섬ᴷᴿ]" ;
+  dct:issued "2026-11-25" .
+
+sp:sample a skos:Concept ; skos:inScheme sp: ; skos:topConceptOf sp: ; skos:notation "SP-1" ;
+  skos:prefLabel "예시 자료"@ko , "Sample material"@en ; skos:altLabel "샘플 자료"@ko ;
+  skos:scopeNote "가져오기를 시험하는 자료"@ko .
+sp:draft a skos:Concept ; skos:inScheme sp: ; skos:broader sp:sample ; skos:notation "SP-1.1" ;
+  skos:prefLabel "예시 초안"@ko , "Sample draft"@en ; skos:altLabel "샘플 초안"@ko ;
+  skos:scopeNote "아직 확정하지 않은 예시"@ko .
+sp:final a skos:Concept ; skos:inScheme sp: ; skos:broader sp:sample ; skos:notation "SP-1.2" ;
+  skos:prefLabel "예시 확정본"@ko , "Sample final"@en ; skos:altLabel "샘플 확정본"@ko ;
+  skos:scopeNote "확정한 예시"@ko ; skos:related sp:draft .
